@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+
+header{
+    font-size: 150px;
+    color: lightskyblue;
+    background-color: white;
+    text-align: center;
+}
+
+#hello{
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
+
+p{
+    color: white;
+    font-size: 90px;
+    text-align: center;
+    position: relative;
+}
+
+#person{
+    height: 800px;
+    width: 800px;
+}
+
+#rover{
+    height: 800px;
+    width: 800px;
+}
+
+#rover, #person{
+    display: inline-block;
+}
+
+#A {
+    font-size: 50px;
+    text-align: center;
+    display: inline-block;
+}
+
